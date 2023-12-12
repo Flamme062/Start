@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Welcome to Swift-Buy!</h1>
       <Counter />
       <p>
-        <a href="Innovative Technology" target="_blank">
+"Innovative Technology"
         </a>{" "}
       </p>
     </main>
