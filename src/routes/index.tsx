@@ -9,10 +9,9 @@ export default function Home() {
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
+        <a href="Innovative Technology" target="_blank">
           start.solidjs.com
         </a>{" "}
-        to learn how to build SolidStart apps.
       </p>
     </main>
   );
