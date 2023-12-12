@@ -8,9 +8,9 @@ export default function Home() {
       <h1>Welcome to Swift-Buy!</h1>
       <Counter />
       <p>
+
+
+
+
 "Innovative Technology"
-        </a>{" "}
-      </p>
-    </main>
-  );
-}
+
